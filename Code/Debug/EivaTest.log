@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\Rainer8\Desktop\SensorProgram_v3\Code\SurveySeabed.h(11,14): warning C4930: 'RealSensor real(void)': prototyped function not called (was a variable definition intended?)
+  EivaTest.vcxproj -> C:\Users\Rainer8\Desktop\SensorProgram_v3\Code\Debug\Sensor.exe

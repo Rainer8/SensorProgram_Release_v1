@@ -1,0 +1,2 @@
+C:\Users\Rainer8\Desktop\SensorProgram_v3\Code\Debug\Sensor.exe
+C:\Users\Rainer8\Desktop\SensorProgram_v3\Code\Debug\Sensor.pdb
